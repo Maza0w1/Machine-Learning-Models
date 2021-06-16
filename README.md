@@ -1,3 +1,3 @@
-Machine Learning Models:
+### Projects
 
 1. Email Spam Detector
