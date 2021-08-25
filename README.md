@@ -1,3 +1,1 @@
-### Projects
-
-1. Email Spam Detector
+This machine learning system filters spam emails. 
